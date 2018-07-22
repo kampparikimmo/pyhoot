@@ -1,4 +1,5 @@
 #Tässä tiedostonhallinnan esimerkkiohjelma
+#Tämä on testirivi
 import time
 nro = 0
 rivinro = 0
