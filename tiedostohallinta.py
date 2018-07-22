@@ -1,3 +1,4 @@
+#Tässä tiedostonhallinnan esimerkkiohjelma
 import time
 nro = 0
 rivinro = 0
